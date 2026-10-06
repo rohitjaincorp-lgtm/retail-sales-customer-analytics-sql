@@ -1,0 +1,10 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# MySQL / local files
+*.sql.bak
+
+# IDE
+.vscode/
+.idea/
